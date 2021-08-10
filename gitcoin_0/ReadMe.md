@@ -4,8 +4,6 @@
 
 ![setup-node-ckb](./local-ckb-node-and-ckb-indexer.png)
 
-
-
 Description
 
 0. Setup a Local CKB Node and CKB Indexer for the Testnet
